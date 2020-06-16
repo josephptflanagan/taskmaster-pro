@@ -1,10 +1,13 @@
 # Taskmaster Pro
 
 ## GitHub Repository
+https://github.com/josephptflanagan/taskmaster-pro
 
 ## Site URL
+https://josephptflanagan.github.io/taskmaster-pro/
 
 ## Screenshot
+
 
 ### Summary
 
